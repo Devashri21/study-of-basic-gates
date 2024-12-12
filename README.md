@@ -1,8 +1,7 @@
 **NAME: DEVASHRI.S**
 
 **REF NO: 24001806**
-## EXPEIREMENT NO: 1
-### STUDY OF BASIC GATES
+## EXPERIEMENT NO: 1 STUDY OF BASIC GATES
 
 **AIM:** 
 
@@ -68,15 +67,18 @@ Y= A⊕B
 
 **PROGRAM:**
  
- ![WhatsApp Image 2024-12-12 at 10 12 17_7c654c8e](https://github.com/user-attachments/assets/092cad67-f204-48d3-8527-24bf6decbc5a)
+![Screenshot 2024-12-12 111316](https://github.com/user-attachments/assets/e5a532ac-94a0-4194-8ea9-5b316d1bfddf)
 
 **TRUTH TABLE:**
 
-![WhatsApp Image 2024-12-12 at 10 19 47_3ea1a8cf](https://github.com/user-attachments/assets/88a3bfa9-bec4-463e-834e-0216de9e570f)
+![Screenshot 2024-12-12 111324](https://github.com/user-attachments/assets/260f46c5-348c-4ca7-ab0e-192c2c3c5874)
+
+
 
 **RTL REALIZATION OUTPUT:** 
 
-![WhatsApp Image 2024-12-12 at 10 12 27_68d69c70](https://github.com/user-attachments/assets/8360e989-86b8-4994-a63d-fd1b0697bad9)
+![Screenshot 2024-12-12 111336](https://github.com/user-attachments/assets/7eb30377-f506-4bb0-8f34-f8d5dd426e9c)
+
 
 **RTL TIMING DIAGRAM**
 
